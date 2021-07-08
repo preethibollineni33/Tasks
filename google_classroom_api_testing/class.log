@@ -1,0 +1,5 @@
+2021-06-15 16:14:11,977 file_cache is only supported with oauth2client<4.0.0
+2021-06-15 16:14:11,983 file_cache is only supported with oauth2client<4.0.0
+2021-06-15 16:14:11,989 URL being requested: GET https://classroom.googleapis.com/v1/courses?pageSize=100&alt=json
+2021-06-15 16:14:13,363 URL being requested: GET https://classroom.googleapis.com/v1/courses/360047907525?alt=json
+2021-06-15 16:14:14,322 URL being requested: DELETE https://classroom.googleapis.com/v1/courses/360047907525?alt=json
